@@ -1,1 +1,3 @@
-# NLP_projects
+# NLP projects
+
+- Fine-Tune BERT for Text Classification with TensorFlow
