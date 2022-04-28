@@ -1,3 +1,3 @@
-# NLP projects
+# Sequential Model projects
 
-- Fine-Tune BERT for Text Classification with TensorFlow
+- Natural Language Processing (NLP): Fine-Tune BERT for Text Classification with TensorFlow
