@@ -1,4 +1,4 @@
-# Time Series Analysis Projects
+# Time Series Analysis Course
 
 - Time series data analysis with Pandas library
 - Decomposition of time series data into three components (Trend, Seasonality, Residual)
@@ -7,5 +7,6 @@
 - Developing Autoregressive-Moving Average (ARMA) models
 - Developing Autoregressive Intergrated Moving Average (ARIMA) using SARIMAX and FaceBook Prophet
 - Train/Test RNN, LSTM and GRU models for time series forecasting
-- Comparing time series predictions of COVID-19 deaths
+- Project 1: Comparing time series forecasting of COVID-19 deaths
+- Project 2: Comparing time series forecasting of pedestrian/cyclists counts
 
