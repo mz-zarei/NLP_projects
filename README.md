@@ -1,4 +1,4 @@
-# Time Series Analysis Course
+# Time Series Analysis Projects
 
 - Time series data analysis with Pandas library
 - Decomposition of time series data into three components (Trend, Seasonality, Residual)
